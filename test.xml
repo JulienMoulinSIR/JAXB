@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<EnchereType>
+    <prix>50</prix>
+    <propriétaire>
+        <Nom>NomProprio</Nom>
+        <Prenom>PrenomProprio</Prenom>
+        <Login>proprio</Login>
+        <Mail>proprio@mail.com</Mail>
+    </propriétaire>
+    <MeilleurPrix>50</MeilleurPrix>
+    <Titre>TitreEnchere</Titre>
+    <Descriptif>DescriptionEnchere</Descriptif>
+    <Etat>ouvert</Etat>
+</EnchereType>
